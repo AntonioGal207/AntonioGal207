@@ -1,7 +1,7 @@
 - 👋 Hola, Mi nombre es Antonio Galastica
-- 👀 Tengo interes en aprender mas acerca de esta paltaforma principalmente, por eso mi aparicion aqui :D
-- 🌱 Actualmente estudio En la UTP Licenciatura en Redes Informaticas
-- 📫 Me pueden encontrar como AntonioGal207 que sera mi perfil profesional >:D
+- 👀 Tengo interes en desarrollar aplicaciones que mejoren los flujos de trabajo en distintos rubros que pueden ser optimizados con código. 
+- 🌱 Actualmente estudio En la UTP Licenciatura en Redes Informaticas (actualmente curso 4to año) 
+- 📫 Me pueden encontrar en LinkedIn como AntonioGal207 
 
 <!---
 AntonioGal207/AntonioGal207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
