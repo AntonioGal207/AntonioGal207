@@ -1,6 +1,6 @@
 - 👋 Hola, Mi nombre es Antonio Galastica
 - 👀 Tengo interes en desarrollar aplicaciones que mejoren los flujos de trabajo en distintos rubros que pueden ser optimizados con código. 
-- 🌱 Actualmente estudio En la UTP Licenciatura en Redes Informaticas (actualmente curso 4to año) 
+- 🌱 Actualmente finalize mis estudios en la UTP graduado de Licenciatura en Redes Informáticas. 
 - 📫 Me pueden encontrar en LinkedIn como AntonioGal207 
 
 <!---
