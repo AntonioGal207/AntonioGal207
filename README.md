@@ -1,6 +1,6 @@
 # Hola, soy Antonio Galástica 👋
 
-Licenciado en Redes Informáticas por la UTP. Me interesa desarrollar
+Licenciado en Redes Informáticas. Me interesa desarrollar
 aplicaciones que mejoren los flujos de trabajo en distintos sectores,
 optimizando con código los procesos que lo permiten.
 
